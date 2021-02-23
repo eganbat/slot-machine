@@ -2,7 +2,7 @@
 const boxLookup = {     //they are not part of state and always constant values
     cherry: {           //we always put here rules and image that never changing
         imageUrl: 'imgs/cherry.png',
-        
+   
     },
     lemon: {
         imageUrl: 'imgs/lemon.png',
@@ -16,7 +16,6 @@ const boxLookup = {     //they are not part of state and always constant values
 
 //state variables. The things that will change 
 let choices; //cherry, lemon, watermelon
-let winner;
 
 const choicesEl = {
     
@@ -71,7 +70,7 @@ function playRound(){
 
     if (choices.boxOne === choices.boxTwo && choices.boxOne === choices.boxThree){
         document.querySelector('h1').textContent = 'You have won'
-        // window.alert("You have won.")
+    
     } else{
         document.querySelector('h1').textContent = 'Slot Machine'
     }
