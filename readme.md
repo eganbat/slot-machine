@@ -7,10 +7,10 @@ In other words,
 
 https://i.imgur.com/NNw50zs.jpg
 
-
-file:///Users/enkhtur/code/slot-machine/index.html
-
 https://github.com/eganbat/slot-machine
+
+https://eganbat.github.io/slot-machine/
+
 
 What was your biggest challenge?
 In my opinion, one of the biggest challenges that I had was thinking or being creative. In the middle of the project, I had to change my CSS and index a few times trying to decide what looks and works best.  
