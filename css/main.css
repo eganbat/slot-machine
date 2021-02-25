@@ -62,7 +62,7 @@ button {
     background-image: url(../imgs/smallcherry.png);
     position: relative;
     animation-name: animation;
-    animation-duration: 40s;
+    animation-duration: 30s;
     animation-iteration-count: infinite;
 
   }
