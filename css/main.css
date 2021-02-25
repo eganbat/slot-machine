@@ -56,3 +56,26 @@ button {
     color: white;
   }
   
+  #fruits {
+    width: 60;
+    height: 60;
+    background-image: url(../imgs/smallcherry.png);
+    position: relative;
+    animation-name: animation;
+    animation-duration: 40s;
+    animation-iteration-count: infinite;
+
+  }
+  
+  @keyframes animation {
+    0%   {background-image: url(../imgs/smalllemon.png); left:-500px; top:0px;}
+    25%  {background-image: url(../imgs/smallcherry.png);left:500px; top:0px;}
+    50%  {background-image: url(../imgs/smallwatermelon.png); left:500px; top:240px;}
+    75%  {background-image: url(../imgs/smalllemon.png); left:-500px; top:240px;}
+    100% {background-image: url(../imgs/smallcherry.png); left:-500px; top:0px;}
+  }
+
+
+
+
+ 
