@@ -1,4 +1,5 @@
-For my first project, I have built a simple slot-machinegame with a fun and colorful theme. There are three reels/boxes with values of cherry, lemon,and watermelon. Each image of the value will appear randomly per box. In this game, the logic is plain simple as if a player matches the same value in all three boxes, he or she wins instantly. 
+For my first project, I have built a simple slot-machine game with a fun and colorful theme. There are three reels/boxes with values of cherry, lemon,and watermelon. Each image of the value will appear randomly per box. 
+In this game, the logic is plain simple as if a player matches the same value in all three boxes, he or she wins instantly. 
 In other words, 
     If a result of box one’s value matches with the result of box two’s and three’s values             
         “You have won” text appears
