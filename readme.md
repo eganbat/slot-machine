@@ -4,10 +4,14 @@ For my first project, I have built a simple slot-machine game with a fun and col
 *********************
 In this game, the logic is plain simple as if a player matches the same value in all three boxes, he or she wins instantly. 
 In other words, 
-    If a result of box one’s value matches with the result of box two’s and three’s values             
-        “You have won” text appears
-    Else           
-        “Slot Machine” text appears.  
+
+If a result of box one’s value matches with the result of box two’s and three’s values             
+
+“You have won” text appears
+ 
+ Else           
+ 
+“Slot Machine” text appears.  
 
 https://i.imgur.com/NNw50zs.jpg
 
